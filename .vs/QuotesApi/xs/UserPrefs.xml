@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{799C61D8-3CFF-46C6-B52C-0D161573A511}|Default">
+  <MonoDevelop.Ide.ItemProperties.QuotesApi PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QuotesApi/Controllers/QuotesController.cs">
+    <Files>
+      <File FileName="QuotesApi/Controllers/QuotesController.cs" Line="71" Column="35" />
+      <File FileName="QuotesApi/Models/Quote.cs" />
+      <File FileName="QuotesApi/Program.cs" />
+      <File FileName="QuotesApi/Startup.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QuotesApi" expanded="True">
+            <Node name="QuotesApi" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="QuotesController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mahadevaprasad/Projects/QuotesApi/QuotesApi/Controllers/QuotesController.cs" relfile="QuotesApi/Controllers/QuotesController.cs" line="103" column="1" />
+      <Breakpoint file="/Users/mahadevaprasad/Projects/QuotesApi/QuotesApi/Controllers/QuotesController.cs" relfile="QuotesApi/Controllers/QuotesController.cs" line="110" column="1" />
+      <Breakpoint file="/Users/mahadevaprasad/Projects/QuotesApi/QuotesApi/Controllers/QuotesController.cs" relfile="QuotesApi/Controllers/QuotesController.cs" line="81" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
